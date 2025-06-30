@@ -111,7 +111,7 @@ export default function Footer() {
                 <span className="text-gray-400">
                   123 Directors Avenue
                   <br />
-                  Los Angeles, CA 90028
+                  Niketan, Dhaka
                 </span>
               </li>
               <li className="flex items-center">
